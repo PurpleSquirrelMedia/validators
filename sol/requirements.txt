@@ -1,4 +1,4 @@
-ansible==2.10.0
+ansible==7.0.0
 ansible-base==2.10.1
 certifi==2020.6.20
 cffi==1.14.3
